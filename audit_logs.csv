@@ -1,0 +1,6 @@
+id,event_type,entity_type,entity_id,actor,description,metadata_json,created_at
+1,SEED_DATA_LOADED,system,system,system,"Demo seed data loaded: {'resources': 20, 'staff': 15, 'tasks': 30, 'constraints': 3}",,2026-10-10 06:34:56.087683
+2,SCHEDULE_GENERATED,schedule,SCH-E85ECE1C,system,Schedule SCH-E85ECE1C generated. Status: OPTIMAL. Scheduled: 29/30,,2026-10-10 06:35:12.198805
+3,CSV_IMPORT,resources,bulk,user,"CSV import: 1 resources imported, 0 skipped",,2026-10-10 07:02:00.840550
+4,SCHEDULE_GENERATED,schedule,SCH-BC2EBE38,system,Schedule SCH-BC2EBE38 generated. Status: OPTIMAL. Scheduled: 29/30,,2026-10-10 07:02:17.861030
+5,SEED_DATA_LOADED,system,system,system,"Demo seed data loaded: {'resources': 0, 'staff': 0, 'tasks': 0, 'constraints': 0}",,2026-10-10 07:03:03.814830
