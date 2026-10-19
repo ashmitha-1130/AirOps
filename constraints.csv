@@ -1,0 +1,4 @@
+id,constraint_id,constraint_type,entity_type,entity_id,start_time,end_time,reason,is_active,created_at,updated_at
+1,CON-001,maintenance_window,resource,RES-016,2026-07-13 06:00:00.000000,2026-07-17 06:00:00.000000,Scheduled overhaul of Heavy Lift Crane,1,2026-10-10 06:34:56.089639,2026-10-10 06:34:56.089639
+2,CON-002,staff_unavailability,staff,STF-014,2026-07-12 06:00:00.000000,2026-07-16 06:00:00.000000,Annual leave,1,2026-10-10 06:34:56.089639,2026-10-10 06:34:56.089639
+3,CON-003,facility_restriction,resource,RES-007,2026-07-14 12:00:00.000000,2026-07-14 16:00:00.000000,Simulation Lab 1 reserved for external inspection,1,2026-10-10 06:34:56.089639,2026-10-10 06:34:56.089639

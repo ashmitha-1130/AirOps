@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: airops-backend
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: DATABASE_URL
+        value: sqlite:///./airops.db
+      - key: SQLITE_FALLBACK
+        value: "true"
+      - key: SECRET_KEY
+        value: airops-production-secret-key
+      - key: ENVIRONMENT
+        value: production
+      - key: CORS_ORIGINS
+        value: https://airops.vercel.app
