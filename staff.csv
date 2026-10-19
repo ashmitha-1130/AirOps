@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id,staff_id,name,role,skill_category,availability_status,availability_notes,is_active,created_at,updated_at
 1,STF-001,Cpl. Arjun Mehta,Driver,driving,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
 2,STF-002,Cpl. Priya Sharma,Driver,driving,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
@@ -14,3 +15,21 @@ id,staff_id,name,role,skill_category,availability_status,availability_notes,is_a
 13,STF-013,Tech. Ramesh Iyer,Fuel Technician,fuel_handling,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
 14,STF-014,Sgt. Pooja Tiwari,Logistics Coordinator,logistics,unavailable,On leave until 2026-07-16,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
 15,STF-015,Cpl. Manish Yadav,Driver,driving,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+=======
+id,staff_id,name,role,skill_category,availability_status,availability_notes,is_active,created_at,updated_at
+1,STF-001,Cpl. Arjun Mehta,Driver,driving,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+2,STF-002,Cpl. Priya Sharma,Driver,driving,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+3,STF-003,Sgt. Ravi Kumar,Logistics Coordinator,logistics,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+4,STF-004,Sgt. Anita Desai,Logistics Coordinator,logistics,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+5,STF-005,Lt. Vikram Singh,Training Instructor,instruction,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+6,STF-006,Lt. Meera Nair,Training Instructor,instruction,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+7,STF-007,Tech. Suresh Pillai,Maintenance Technician,maintenance,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+8,STF-008,Tech. Kavya Reddy,Maintenance Technician,maintenance,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+9,STF-009,Cpl. Deepak Joshi,Cargo Handler,cargo_handling,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+10,STF-010,Cpl. Sunita Rao,Cargo Handler,cargo_handling,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+11,STF-011,Maj. Arun Verma,Operations Officer,operations,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+12,STF-012,Capt. Neha Gupta,Admin Officer,administration,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+13,STF-013,Tech. Ramesh Iyer,Fuel Technician,fuel_handling,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+14,STF-014,Sgt. Pooja Tiwari,Logistics Coordinator,logistics,unavailable,On leave until 2026-07-16,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+15,STF-015,Cpl. Manish Yadav,Driver,driving,available,,1,2026-10-10 06:34:56.092844,2026-10-10 06:34:56.092844
+>>>>>>> 3a1d2d1826a3b803fed93dcbb3745f55ff811139

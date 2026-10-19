@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 id,resource_id,name,resource_type,capacity,availability_status,maintenance_status,availability_notes,is_active,created_at,updated_at
 1,RES-001,Transport Truck Alpha,transport_vehicle,10,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
 2,RES-002,Transport Truck Bravo,transport_vehicle,10,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
@@ -20,3 +21,27 @@ id,resource_id,name,resource_type,capacity,availability_status,maintenance_statu
 19,RES-019,Workshop Bay 3,maintenance_bay,3,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
 20,RES-020,Command Vehicle Hotel,transport_vehicle,6,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
 21,RES-NEW-001,New Vehicle,transport_vehicle,5,available,operational,,1,2026-10-10 07:02:00.841543,2026-10-10 07:02:00.841543
+=======
+id,resource_id,name,resource_type,capacity,availability_status,maintenance_status,availability_notes,is_active,created_at,updated_at
+1,RES-001,Transport Truck Alpha,transport_vehicle,10,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+2,RES-002,Transport Truck Bravo,transport_vehicle,10,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+3,RES-003,Transport Truck Charlie,transport_vehicle,8,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+4,RES-004,Logistics Van Delta,transport_vehicle,4,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+5,RES-005,Training Hall A,training_facility,30,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+6,RES-006,Training Hall B,training_facility,25,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+7,RES-007,Simulation Lab 1,training_facility,15,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+8,RES-008,Maintenance Bay 1,maintenance_bay,2,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+9,RES-009,Maintenance Bay 2,maintenance_bay,2,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+10,RES-010,Fuel Depot North,fuel_depot,5,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+11,RES-011,Fuel Depot South,fuel_depot,5,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+12,RES-012,Cargo Loader Echo,cargo_equipment,1,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+13,RES-013,Cargo Loader Foxtrot,cargo_equipment,1,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+14,RES-014,Admin Office Block 1,admin_facility,20,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+15,RES-015,Briefing Room Gamma,admin_facility,12,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+16,RES-016,Heavy Lift Crane,cargo_equipment,1,maintenance,under_maintenance,Scheduled overhaul until end of week,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+17,RES-017,Refrigerated Van Golf,transport_vehicle,3,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+18,RES-018,Outdoor Training Ground,training_facility,50,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+19,RES-019,Workshop Bay 3,maintenance_bay,3,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+20,RES-020,Command Vehicle Hotel,transport_vehicle,6,available,operational,,1,2026-10-10 06:34:56.091847,2026-10-10 06:34:56.091847
+21,RES-NEW-001,New Vehicle,transport_vehicle,5,available,operational,,1,2026-10-10 07:02:00.841543,2026-10-10 07:02:00.841543
+>>>>>>> 3a1d2d1826a3b803fed93dcbb3745f55ff811139
